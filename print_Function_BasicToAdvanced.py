@@ -1,4 +1,4 @@
-#author:Shaik Nagabasha
+#author:Nagabasha
 #Instagram:https://www.instagram.com/mirapakaaytech/
 #Youtube: https://youtube.com/@mirapakaaytech?si=pC5ZmkIl6xgIyGuM
 #GitHub: https://github.com/shaiknagabasha56
